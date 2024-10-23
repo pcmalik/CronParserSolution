@@ -5,7 +5,7 @@ This application is built using command line application in .net 6.0 on Visual S
 
 ## For usage information see below:
 
-### Unzip CronParserSolution.zip file:
+### Download and unzip:
 
 Assuming that you have downloaded the solutoin from Github repository as CronParserSolution.zip and then unzipped it in C:\TobeDeleted folder on windows, then the unzipped folder should look like below:
 
